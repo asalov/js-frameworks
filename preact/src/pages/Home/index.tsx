@@ -1,5 +1,5 @@
 import { useState } from "preact/hooks";
-import preactLogo from "../../assets/preact.svg";
+import preactLogo from "assets/preact.svg";
 import "./style.css";
 
 export function Home() {
